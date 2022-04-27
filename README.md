@@ -4,6 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
+#Output : -
+
+
+
+![Wifi_details](https://user-images.githubusercontent.com/97453465/165598816-1048db79-0af1-4a2b-b9be-3fa187350d47.png)
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
